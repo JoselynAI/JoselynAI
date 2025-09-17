@@ -1,5 +1,7 @@
 # Welcome to JoselynAI
 
+![JoselynAI](https://cdn.joselyn.ai/joselyn/resource/fe/images/github-share.webp "HomePage")
+
 ## About JoselynAI
 
 [JoselynAI](https://joselyn.ai) is an AI-powered roleplay and interactive platform that provides immersive AI character conversation experiences. Users can engage in deep interactions with various virtual characters and enjoy personalized dialogues and storylines.
